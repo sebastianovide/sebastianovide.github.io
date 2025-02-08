@@ -1,8 +1,7 @@
 ---
 permalink: /about/
-title:  "About"
-layout: single
-date:   2017-02-16 00:00:00 +0000
+title: "About"
+date: 2017-02-16 00:00:00 +0000
 category: random
 script: |
   var quotes = [
@@ -40,6 +39,7 @@ script: |
   $("#quote cite").html(quote.author);
   $("#quote").show();
 ---
+
 The Lean Seed is maintained by Sebastian Ovide, strong supporter of the lean principles, passionate about startups, agile evangelist, natural born geek.
 
 As lead engineer of the [Geovation hub](https://geovation.uk), Britains's pioneering location data hub, I've built a team that supports startups on going live with their MVPs as soon as possible. I am pragmatically frugal, which means that I keep things as simple as possible maximising the real business value delivered with the minimal costs.

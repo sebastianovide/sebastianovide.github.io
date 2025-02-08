@@ -1,6 +1,5 @@
-# start with: docker-compose up
+# start with: docker compose up
 # update with: docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll bundle update
-version: "3"
 
 services:
   jekill:
@@ -12,4 +11,4 @@ services:
       - .:/srv/jekyll
     # command: jekyll build --watch
     # command: bundle update
-    command: jekyll serve
+    command: jekyll serve --no-watch
