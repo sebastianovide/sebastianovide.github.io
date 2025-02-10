@@ -5,7 +5,7 @@ title: "Privacy Policy"
 author_profile: false
 ---
 
-Sebastian Ovide built the Life and Finance Lens app as a free-to-use app. This SERVICE is provided by Sebastian Ovide at no cost and is intended for use as is.
+Sebastian Ovide built the [Life and Finance Lens](https://play.google.com/store/apps/details?id=uk.sebastianovide.life_and_finance_lens) app as a free-to-use app. This SERVICE is provided by Sebastian Ovide at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding the policies with the collection, use, and disclosure of Personal Information if anyone decides to use the service.
 
@@ -25,7 +25,7 @@ Link to privacy policy of third-party service providers used by the app:
 
 # Log Data
 
-Whenever you use Life and Finance Lens, in the case of an error in the app, it collects data and information on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing the Service, the time and date of your use of the Service, and other statistics.
+Whenever you use [Life and Finance Lens](https://play.google.com/store/apps/details?id=uk.sebastianovide.life_and_finance_lens), in the case of an error in the app, it collects data and information on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing the Service, the time and date of your use of the Service, and other statistics.
 
 # Service Providers
 
