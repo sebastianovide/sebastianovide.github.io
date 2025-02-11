@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "78ShtPfn3yfJiJ_oUsRC3EE93Z2pu7uSezNXFxxndog"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -82,15 +82,15 @@ author:
   avatar           : "https://secure.gravatar.com/avatar/af7ba58cfad8c99592c16e2823c08cef"
   bio              : "I am strong supporter of the lean principles, passionate about startups, agile evangelist, natural born geek."
   location         : "London"
-  email            : "sebastian.ovide@gmail.com"
-  uri              : "https://sebastianovide.github.io/"
+  email            : "sebastian@ovide.dev"
+  uri              : "https://www.ovide.dev/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"sebastianovide"
+  github           : "sebastianovide"
   google_plus      :
   keybase          :
   instagram        :

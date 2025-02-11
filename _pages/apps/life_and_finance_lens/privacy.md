@@ -56,4 +56,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 # Contact Us
 
-If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us: [sebmanyapps+life_and_finance_lens@gmail.com](mailto:sebmanyapps+life_and_finance_lens@gmail.com)
+If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us: [life-and-finance-lens@ovide.dev](mailto:life-and-finance-lens@ovide.dev)
