@@ -1,9 +1,30 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /
+# permalink: /about/
+title: "About me"
 date: 2017-02-16 00:00:00 +0000
 category: random
-script: |
+---
+
+<blockquote id="quote" style="display: none;">
+  <span>SPAN_TEXT_HERE</span>
+  <cite>CITE_TEXT_HERE</cite>
+</blockquote>
+
+## Welcome!
+
+I'm Sebastian Ovide, a seasoned technology leader and an engineer at heart, passionate about solving problems with technology. Over the years, I’ve built and led high-performing, cross-functional teams, always balancing Agile and lean startup principles to fit the needs of the company and its stage.
+
+I thrive in startup environments, helping early-stage companies develop their MVPs, choose the right technologies, and build strong engineering teams. My leadership approach is rooted in coaching and mentoring, empowering teams through servant leadership while staying hands-on when needed—whether it’s defining strategy, solving architectural challenges, or even coding.
+
+## A Bit of History
+
+This site contains some very old blog posts that I keep for nostalgia. While much has changed since I first wrote them, they still reflect my passion for lean principles, pragmatic problem-solving, and startup culture. Feel free to browse, but keep in mind that some views or technical choices might be a bit outdated!
+
+If you'd like to connect, feel free to reach out via LinkedIn.
+
+<script>
+  console.log("Script loaded.");
   var quotes = [
     {
       "quote": "Everything should be made as simple as possible, but not simpler",
@@ -34,19 +55,16 @@ script: |
       "author" : "Steve Jobs"
     },
   ];
-  var quote = quotes[Math.floor(Math.random() * quotes.length)];  $("#quote span").html(quote.quote);
 
-  $("#quote cite").html(quote.author);
-  $("#quote").show();
----
+  var quote = quotes[Math.floor(Math.random() * quotes.length)];
+  const quoteElement = document.getElementById("quote");
+  const quoteSpan = quoteElement.querySelector("span"); 
+  const quoteCite = quoteElement.querySelector("cite");
 
-The Lean Seed is maintained by Sebastian Ovide, strong supporter of the lean principles, passionate about startups, agile evangelist, natural born geek.
-
-As lead engineer of the [Geovation hub](https://geovation.uk), Britains's pioneering location data hub, I've built a team that supports startups on going live with their MVPs as soon as possible. I am pragmatically frugal, which means that I keep things as simple as possible maximising the real business value delivered with the minimal costs.
-
-At the same time I provide technical advice to early stage startups acting as a par-time CTO. I help them to develop the MVP, choose the right technologies and building a great tech team.
-
-<blockquote id="quote" style="display: none;">
-  <span></span>
-  <cite></cite>
-</blockquote>
+  // Update the content of the elements
+  quoteSpan.textContent = quote.quote;
+  quoteCite.textContent = quote.author;
+  console.log("Quote updated.");
+  quoteElement.style.display = "block";
+  console.log("Quote displayed.");
+</script>

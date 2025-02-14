@@ -11,4 +11,5 @@ services:
       - .:/srv/jekyll
     # command: jekyll build --watch
     # command: bundle update
-    command: jekyll serve --no-watch
+    # command: jekyll serve --no-watch
+    command: jekyll serve --force_polling --livereload --incremental
