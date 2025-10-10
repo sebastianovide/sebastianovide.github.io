@@ -15,9 +15,10 @@ Productivity isn't about using a specific tool. I've seen veterans of the hashta
 Forcing a tool—any tool—on an expert who has perfected their workflow is counterproductive. The same goes for hashtag#AI.
 
 **My view is simple:**
-▶️ Goal: Deliver outstanding outcomes.
-▶️ Strategy: Enable your teams.
-▶️ Method: Let them choose the best tools for the job. This might be a new AI pair programmer, or it might be "vibe coding" with a trusted old editor.
+
+- ▶️ Goal: Deliver outstanding outcomes.
+- ▶️ Strategy: Enable your teams.
+- ▶️ Method: Let them choose the best tools for the job. This might be a new AI pair programmer, or it might be "vibe coding" with a trusted old editor.
 
 Let's provide the learning resources, set clear goals, and then get out of the way. Trust your people.
 
