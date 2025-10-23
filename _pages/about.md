@@ -2,7 +2,7 @@
 permalink: /
 # permalink: /about/
 title: "About me"
-date: 2025-02-14 00:00:00 +0000
+date: 2025-10-23 00:00:00 +0000
 category: random
 ---
 
