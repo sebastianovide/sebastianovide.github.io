@@ -84,7 +84,7 @@ analytics:
 author:
   name             : *myName
   avatar           : "https://gravatar.com/avatar/0b2158bbc9e698250d812ebbf1ada493124072c9b3befdac24c871fd4c393289"
-  bio              : "I am a servant leader, a strong supporter of lean principles, passionate about startups, an agile evangelist, and a natural-born geek"
+  bio              : "I am a servant leader, a strong supporter of lean principles, an agile evangelist, and a natural-born geek"
   location         : "London"
   email            : "sebastian@ovide.dev"
   # uri              : "https://www.ovide.dev/"
