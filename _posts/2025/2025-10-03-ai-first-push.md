@@ -1,6 +1,9 @@
 ---
 category: team
-tags: ai, processes, team
+tags:
+  - ai
+  - processes
+  - team
 meta: A quick thought on the "AI-first" push in engineering.
 ---
 
