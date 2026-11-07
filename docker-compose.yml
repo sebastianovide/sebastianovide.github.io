@@ -2,14 +2,17 @@
 # update with: docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll bundle update
 
 services:
-  jekill:
+  jekyll:
     container_name: jekyll
-    image: jekyll/jekyll
+    image: jekyll/jekyll:pages
     ports:
       - "4000:4000"
+      - "35729:35729" # Added livereload port mapping
+
     volumes:
       - .:/srv/jekyll
     # command: jekyll build --watch
     # command: bundle update
     # command: jekyll serve --no-watch
-    command: jekyll serve --force_polling --livereload --incremental
+
+    command: sh -c "bundle install && bundle exec jekyll serve --host 0.0.0.0 --force_polling --livereload --incremental"
