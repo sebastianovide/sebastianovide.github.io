@@ -112937,7 +112937,7 @@ $1(a){return new A.ut($.a9())},
 $S:640}
 A.aun.prototype={
 $1(a){A.cD(a,B.aVF,t.wr).toString
-return"flutter_application_1"},
+return"Life & Finance Lens"},
 $S:641}
 A.aum.prototype={
 $2(a,b){var s=A.c([],t.p)
