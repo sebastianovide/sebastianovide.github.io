@@ -13,4 +13,4 @@ just create a new page in `_posts` using the naming convention (data_title.md). 
 just run `docker compose up` and open `http://localhost:4000` with a browser with `open http://localhost:4000`.
 To update the packages just run:
 
-- `docker compose run --rm jekyll bundle update`
+- `docker compose run --rm jekyll bundle update github-pages`
